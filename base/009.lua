@@ -28,4 +28,8 @@ print(0x0.1p3) -- ???
 print(0x1p1)
 print(0x1p2)
 
-print(0x2p-1)
+print('-----------------------------')
+print(0x2p-1) -- 2 * (2)^-1
+print(0x1p-2) -- 1/4  1 * 2^-2  1 * (1/2)^2
+print(0x2p-2)
+print(0x3p-2)
