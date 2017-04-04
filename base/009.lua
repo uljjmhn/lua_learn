@@ -28,3 +28,4 @@ print(0x0.1p3) -- ???
 print(0x1p1)
 print(0x1p2)
 
+print(0x2p-1)
